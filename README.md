@@ -27,7 +27,7 @@ It also keeps track of the *number of attempts* and saves the *best score* in a 
 
 📸 Screenshot:
 
-![Game Output](outputofproject2.png)
+![Game Output](src="https://github.com/user-attachments/assets/dd049f50-47a0-4d80-9206-811821bd4eb5")
 
 
 ---
